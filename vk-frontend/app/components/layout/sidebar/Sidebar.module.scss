@@ -1,0 +1,26 @@
+.card {
+	margin-top: 1rem;
+	margin-bottom: 10px;
+	padding: 0.6rem;
+	//	background-color: #f7f7f7;
+
+	> div {
+		padding: 0;
+	}
+}
+
+.itemLink {
+	margin-bottom: 0.7rem;
+	cursor: pointer;
+	padding: 0.4rem 0 !important;
+
+	> div {
+		margin-bottom: 0 !important;
+
+		> div {
+			> h4 {
+				margin: 0;
+			}
+		}
+	}
+}
