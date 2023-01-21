@@ -1,4 +1,4 @@
-# vk-copy-fullstack
+# vk-clone-fullstack
 nextjs + nestjs + socket.io + typeOrm + ant design
 ![1674327665872](https://user-images.githubusercontent.com/10204493/213883179-1b2709dc-2a54-45be-b910-4085feeb1d9e.jpg)
 ![1674328322072](https://user-images.githubusercontent.com/10204493/213883349-4967aafe-ed99-4111-a748-0deca3157edc.jpg)
