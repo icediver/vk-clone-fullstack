@@ -3,6 +3,9 @@
 # dependencies
 */node_modules
 
+vk-frontend/.vscode
+vk-frontend/.idea
+
 .env
 
 
